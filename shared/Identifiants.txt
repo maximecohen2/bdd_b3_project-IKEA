@@ -1,0 +1,9 @@
++----------------------------+
+| Identifiants Oracle Server |
++----------------------------+
+
+user: SYS / SYSTEM
+pass: 25Jpr2vR
+
+-----------------
+
