@@ -1,0 +1,15 @@
+Compte utilisateur : SYS
+Mot de passe : Passe1
+
+Compte utilisateur : SYSTEM
+Mot de passe : Passe1
+
+Compte utilisateur : DBSNMP
+Mot de passe : Passe1
+
+Compte utilisateur : PDBADMIN
+Mot de passe : Passe1
+
+Compte utilisateur : DBA
+Mot de passe : Passe1?
+
