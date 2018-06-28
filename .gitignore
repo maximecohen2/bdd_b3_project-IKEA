@@ -1,2 +1,3 @@
 # Jetbrain files
 .idea
+*.sqlite3
